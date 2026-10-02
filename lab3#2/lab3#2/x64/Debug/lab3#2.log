@@ -1,3 +1,4 @@
 ﻿  2.c
-C:\Users\student\Documents\Лычаная 261_2\lab3(10,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\Documents\Лычаная 261_2\lab3(11,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\Documents\Лычаная 261_2\lab3(17,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
   lab3#2.vcxproj -> C:\Users\student\Documents\Лычаная 261_2\lab3#2\x64\Debug\lab3#2.exe
